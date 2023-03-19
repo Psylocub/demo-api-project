@@ -1,4 +1,4 @@
-# Food recipe API project.
+# Food recipe API project
 
 ## Setup
 
