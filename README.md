@@ -1,4 +1,4 @@
-# Food recipe API project
+# API project of food recipes
 
 ## Setup
 
@@ -11,12 +11,6 @@ $ Rename .env.sample to .env and fill all data
 
 ```
 $ docker-compose up
-```
-
-**Apply migrations**
-
-```
-$ docker-compose run --rm app sh -c "python manage.py migrate"
 ```
 
 **Run tests**
